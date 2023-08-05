@@ -22,10 +22,12 @@ Topics will covere in advance :
 - android studio
 
 
-###this is my github account(reading-notes) : [GITHUB ACCOUNT](https://github.com/mosubborini2000/reading-notes)
+### this is my github account(reading-notes) : [GITHUB ACCOUNT](https://github.com/mosubborini2000/reading-notes)
  
 
  ## [sql training](./prac.md)
+ ## [command line summrize](./comm.md)
+
 
 
 
