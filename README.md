@@ -28,6 +28,9 @@ Topics will covere in advance :
  ## [sql training](./prac.md)
  ## [command line summrize](./comm.md)
  ##  [DATASTRUCTURE AND ALGORITHMS](./datastru.md)
+  ##  [java basic](./javaBasics.md)
+
+
 
  
 
