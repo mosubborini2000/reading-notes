@@ -25,11 +25,16 @@ Topics will covere in advance :
 ### this is my github account(reading-notes) : [GITHUB ACCOUNT](https://github.com/mosubborini2000/reading-notes)
  
 
- ## [sql training](./prac.md)
- ## [command line summrize](./comm.md)
- ##  [DATASTRUCTURE AND ALGORITHMS](./datastru.md)
- ##  [java basic](./javaBasics.md)
-  ##  [growth mindest](./growth.md)
+| Item                      | Link                                     |
+|---------------------------|------------------------------------------|
+| SQL Training              | [sql training](./prac.md)                |
+| Command Line Summarize    | [command line summarize](./comm.md)      |
+| Data Structures & Algorithms | [DATASTRUCTURE AND ALGORITHMS](./datastru.md) |
+| Java Basics               | [java basic](./javaBasics.md)            |
+| Growth Mindset            | [growth mindest](./growth.md)           |
+|  class                 | [reading1](./classOne.md)           | 
+|  class2                  | [reading2](./classTwo.md)           |
+
 
 
 
