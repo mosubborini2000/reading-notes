@@ -34,6 +34,8 @@ Topics will covere in advance :
 | Growth Mindset            | [growth mindest](./growth.md)           |
 |  class                 | [reading1](./classOne.md)           | 
 |  class2                  | [reading2](./classTwo.md)           |
+class3                  | [reading3](./classThree.md)           |
+
 
 
 
