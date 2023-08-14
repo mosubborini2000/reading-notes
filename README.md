@@ -35,7 +35,7 @@ Topics will covere in advance :
 |  class                 | [reading1](./classOne.md)           | 
 |  class2                  | [reading2](./classTwo.md)           |
 class3                  | [reading3](./classThree.md)           |
-|  class4                  | [reading2](./ClassFour.md)           |
+|  class4                  | [reading4](./ClassFour.md)           |
 
 
 
