@@ -38,6 +38,8 @@ Topics will covere in advance :
 |  class4                  | [reading4](./ClassFour.md)           |
 |  class5                  | [reading5](./ClassFive.md)           |
 class6                  | [reading6](./Classix.md)           |
+class8                 | [reading8](./class8.md)           
+|class9                | [reading9](./class9.md)           |
 
 
 
