@@ -40,6 +40,7 @@ Topics will covere in advance :
 class6                  | [reading6](./Classix.md)           |
 class8                 | [reading8](./class8.md)           
 |class9                | [reading9](./class9.md)           |
+|class11                | [reading11](./class11.md)           |
 
 
 
