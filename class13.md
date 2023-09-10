@@ -1,6 +1,6 @@
 1. Name a few real-life examples of "One To Many" relationships.
 
-Sure, here are a few real-life examples of "One-to-Many" relationships:
+
 
 Author and Books: One author can write many books, but each book is written by one author.
 Teacher and Students: A teacher can have many students in their class, but each student has only one teacher.
