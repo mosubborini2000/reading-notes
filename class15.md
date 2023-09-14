@@ -5,6 +5,10 @@
 - K: A number that specifies the maximum number of children any node may have (left and right node).
 - Leaf node: A node that doesn't have children.
 - Height: The height of a tree is the number of edges from the root to the furthest leaf.
+- outdegree
+- indegree
+- totaldegree
+- siblings
 
 ## Traversals
 
@@ -37,6 +41,6 @@ private static long factorial(int n) {
 Binary Search Trees
 A Binary Search Tree (BST) is a type of tree that has some structure attached to it. In a BST, nodes are organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right.
 
-Binary Tree Vs K-ary Trees
+- Binary Tree Vs K-ary Trees
 Trees can have any number of children per node, but Binary Trees restrict the number of children to two. If nodes are able to have more than 2 child nodes, we call the tree that contains them a K-ary Tree.
 
