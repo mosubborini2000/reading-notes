@@ -48,6 +48,7 @@ class8                 | [reading8](./class8.md)
 |class16         | [reading16](./class16.md)           |
 |class17         | [reading17](./class17.md)           |
 |class18         | [reading18](./class18.md)           |
+|class19         | [reading19](./class19.md)           |
 
 
 
