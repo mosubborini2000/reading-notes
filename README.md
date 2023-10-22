@@ -50,6 +50,7 @@ class8                 | [reading8](./class8.md)
 |class18         | [reading18](./class18.md)           |
 |class19         | [reading19](./class19.md)           |
 |class26         | [reading26](./class26.md)           |
+|class27         | [reading27](./class27.md)           |
 
 
 
