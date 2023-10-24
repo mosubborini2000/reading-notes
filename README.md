@@ -45,14 +45,14 @@ class8                 | [reading8](./class8.md)
 |class13                | [reading13](./class13.md)           |
 |class14                | [reading14](./class14.md)           |
 |class15               | [reading15](./class15.md)           |
-|class16         | [reading16](./class16.md)           |
+|class16          | [reading16](./class16.md)           |
 |class17         | [reading17](./class17.md)           |
 |class18         | [reading18](./class18.md)           |
 |class19         | [reading19](./class19.md)           |
 |class26         | [reading26](./class26.md)           |
 |class27         | [reading27](./class27.md)           |
 |class28         | [reading28](./class28.md)           |
-
+|class29         | [reading29](./class29.md)           |
 
 
 
