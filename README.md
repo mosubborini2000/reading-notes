@@ -53,7 +53,7 @@ class8                 | [reading8](./class8.md)
 |class27         | [reading27](./class27.md)           |
 |class28         | [reading28](./class28.md)           |
 |class29         | [reading29](./class29.md)           |
-
+|class30         | [hash](./hash.md)           |
 
 
 
