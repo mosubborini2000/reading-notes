@@ -57,7 +57,7 @@ class8                 | [reading8](./class8.md)
 |class31         | [AWS Amplify, Part 1](./class31.md)           |
 |class32         | [class32](./class32.md)           |
 |class33         | [class33](./class33.md)           |
-
+|class35         | [class35](./class35.md)           |
 
  
 
