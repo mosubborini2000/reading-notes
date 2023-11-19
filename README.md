@@ -59,7 +59,7 @@ class8                 | [reading8](./class8.md)
 |class33         | [class33](./class33.md)           |
 |class34         | [class34](./class34.md)           |
 |class34         | [graph](./class35.md)           |
-
+class36         | [class36](./class36.md)           |
  
 
 
