@@ -61,7 +61,8 @@ class8                 | [reading8](./class8.md)
 |class34         | [graph](./class35.md)           |
 class36         | [class36](./class36.md)           |
 class37         | [class37](./class37.md)           |
-class38         | [class37](./class38.md)           |
+class38         | [class38](./class38.md)           |
+class39         | [class39](./class39.md)           |
  
 
 
